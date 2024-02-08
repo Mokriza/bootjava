@@ -7,4 +7,6 @@ public class TestClass {
 
     private String birthdate;
 
+    private String lala;
+
 }
